@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448727641317",
+    "project_id": "musait-1c501",
+    "storage_bucket": "musait-1c501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448727641317:android:9999f9f4c7e726fec4380c",
+        "android_client_info": {
+          "package_name": "com.example.musait"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBG0fH1KzrrpCTqR_rZ-W5ra9TEGqXRXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
